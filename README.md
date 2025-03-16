@@ -1,7 +1,7 @@
 README:                                     Implementation Details and Design Decisions for Assignement 1 
 
 Introduction
-  >This document provides details on the implementation and design choices made for assignement1 which is a programme that sorts and shuffles a list of songs received as input. The sorting algorithm used is         Selection Sort, while the shuffling is implemented using the Fisher-Yates algorithm.
+This document provides details on the implementation and design choices made for assignement1 which is a programme that sorts and shuffles a list of songs received as input. The sorting algorithm used is         Selection Sort, while the shuffling is implemented using the Fisher-Yates algorithm.
 
 Function Used to Read Input from the Command Line--fgets()
 
